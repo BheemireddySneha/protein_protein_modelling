@@ -6,11 +6,11 @@ Contains codes used for modelling protein-protein complxes and their analysis
 3. loop_model.py -> modelling only loop regions
 
 # analysis_plots
-1.contacts.ipynb -> A programe to obtains conatacts from a protein complex
+1. contacts.ipynb -> A programe to obtains conatacts from a protein complex
 2. Distance betweeen two residues -> obtaining/clculating distance between residues in a complex
-3.identity_similarity_RMSD.ipynb -> plotting identity and similarity values
-4.is_score.sh -> commands to obtain interface similarity score
-4. plot_pcscore.ipynb
+3. identity_similarity_RMSD.ipynb -> plotting identity and similarity values
+4. is_score.sh -> commands to obtain interface similarity score
+5. plot_pcscore.ipynb
 
 # MD-Gromacs
 1. gmx_run.sh -> running md using gromacs
